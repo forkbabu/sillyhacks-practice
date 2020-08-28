@@ -3,5 +3,5 @@
 import numpy as np
 import tensorflow as tf
 
-nice = "aha"
+nic = "aha"
 
